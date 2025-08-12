@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="app_logo.png" alt="Project Logo" width="300">
+  <img src="/.github/profile/app_logo.png" alt="Project Logo" width="300">
 </div>
 
 # ♻️ C242-PS304 - Bangkit 2024 Batch 2 Capstone Team Project (Sortify)
 
 > Empowering better waste management through AI-powered classification and creative recycling ideas.
 
-![Project Showcase](sortify.png)
-![Project Showcase](sortify_features.png)
+![Project Showcase](/.github/profile/sortify.png)
+![Project Showcase](/.github/profile/sortify_features.png)
 
 ---
 
